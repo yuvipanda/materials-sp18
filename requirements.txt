@@ -2,4 +2,4 @@ datascience
 matplotlib
 pandas
 scipy
-git+https://github.com/yuvipanda/okgrade.git@de576b1
+git+https://github.com/yuvipanda/okgrade.git@41de5ce
